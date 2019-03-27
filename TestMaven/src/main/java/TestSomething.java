@@ -1,4 +1,4 @@
-package srcPackage;
+package main.java;
 
 public final class TestSomething {
 	private TestSomething() {
