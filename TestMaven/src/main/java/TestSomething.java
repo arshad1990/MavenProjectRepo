@@ -1,11 +1,10 @@
 package main.java;
 
 public final class TestSomething {
-	private TestSomething() {
+  private TestSomething() {
+  }
 
-	}
-
-	public static int returnSomething() {
-		return 1;
-	}
+  public static int returnSomething() {
+    return 1;
+  }
 }
